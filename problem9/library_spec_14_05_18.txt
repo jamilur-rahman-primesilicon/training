@@ -1,0 +1,22 @@
+#This is the unorganaized given Input file.( Figure 1 )
+lc_dimension: { { lc_A {300 700} } { lc_B {450 350} } { lc_C {300 100} } { lc_D {250 350} } { lc_E {250 400} } }
+
+lib_cell { { memory_m1 {lc_C} } { memory_m2 {lc_A} } { memory_m3 { lc_E } } }
+
+memory_origin {
+  memory_m1 "1.588 1.576"
+  memory_m2 "1000 1500"
+  memory_m3 "300 0"
+}
+
+die_area "600000"
+die_aspect_ratio "1.5"     ;# Width/Height
+core2die '0.588 0.576'     ;# X-axis Y-axis
+# make sure the right edge of core is at multiple of the horizontal core grid
+
+
+
+
+
+
+

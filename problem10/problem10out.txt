@@ -1,0 +1,2 @@
+  Startpoint: serdes_s24_btm_u0/serdes_s4_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/i_ln1/i_sync_rx_gs_mode/z_o_reg 
+

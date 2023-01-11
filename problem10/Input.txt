@@ -1,0 +1,219 @@
+  Startpoint: serdes_s24_btm_u0/serdes_s4_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/i_ln1/i_sync_rx_gs_mode/z_o_reg
+  Endpoint: lif1_pipeline_u0/bus_delay_u25/delay_seq_reg_5__36_
+  Path Group: LN1_CLK_TX_core0_lif1
+  Path Type: max
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319411/Y (DLY4_X4N_A9PP84TR_C16)                                   0.087
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319407/Y (delay250x1)                                   0.451
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319408/Y (delay250x1)                                   0.450
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319409/Y (delay250x1)                                   0.452
+  slack (VIOLATED)                                                                                                                                                         -0.401
+
+
+
+
+  Startpoint: serdes_s24_btm_u0/serdes_s4_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/i_ln1/i_lane_if/sync_ln_rx_rdy/z_o_reg
+  Endpoint: lif1_pipeline_u0/bus_delay_u25/delay_seq_reg_5__34_
+  Path Group: LN1_CLK_TX_core0_lif1
+  Path Type: max
+  serdes_s24_btm_u0/serdes_s4_u0/RO_ropt_h_inst_1459983/Y (DLY2_X4N_A9PP84TR_C16)                                   0.052
+  serdes_s24_btm_u0/serdes_s4_u0/RO_ropt_h_inst_1459980/Y (DLY4_X4N_A9PP84TR_C16)                                   0.097
+  serdes_s24_btm_u0/serdes_s4_u0/RO_ropt_h_inst_1459981/Y (DLY4_X4N_A9PP84TR_C16)                                   0.094
+  serdes_s24_btm_u0/serdes_s4_u0/RO_ropt_h_inst_1459982/Y (DLY4_X4N_A9PP84TR_C16)                                   0.097
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319421/Y (DLY2_X1N_A9PP84TR_C16)                                        0.032
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319418/Y (delay100x1)                                                                            0.173
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319419/Y (DLY4_X4N_A9PP84TR_C16)                                       0.100
+  slack (VIOLATED)                                                                                                                                                                 -0.385
+
+
+
+
+  Startpoint: serdes_s24_btm_u0/serdes_s4_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/i_ln1/i_lane_if/sync_ln_rx_rdy/z_o_reg  
+  Endpoint: lif1_pipeline_u0/bus_delay_u25/delay_seq_reg_5__33_
+  Path Group: LN1_CLK_TX_core0_lif1
+  Path Type: max
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319425/Y (delay100x1)                                   0.095
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319422/Y (delay250x1)                                   0.159
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319423/Y (delay250x1)                                   0.056
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319424/Y (delay250x1)                                   0.151
+  slack (VIOLATED)                                                                                                                                                                 -0.369
+
+
+
+
+  Startpoint: serdes_s24_btm_u0/serdes_s4_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/i_ln1/i_sync_rw_bit_stuff_strip_ctrl__bit_strip_en_rxfclk/z_o_reg
+  Endpoint: lif1_pipeline_u0/bus_delay_u25/delay_seq_reg_5__20_
+  Path Group: LN1_CLK_TX_core0_lif1
+  Path Type: max
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319471/Y (delay250x1)                                   0.152
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319472/Y (delay250x1)                                   0.477
+  serdes_s24_btm_u0/serdes_s4_u0/RO_ropt_h_inst_1460106/Y (DLY4_X2N_A9PP84TR_C16)                                   0.086
+  serdes_s24_btm_u0/serdes_s4_u0/CO_ABUF_PR_1221382/Y (DLY4_X4N_A9PP84TR_C16)                                   0.10
+  serdes_s24_btm_u0/serdes_s4_u0/RO_ropt_d_inst_1451424/Y (DLY4_X4N_A9PP84TR_C16)                                   0.108
+  slack (VIOLATED)                                                                                                                                                                                                  -0.366
+
+
+
+
+  Startpoint: serdes_s24_btm_u0/serdes_s4_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/i_ln1/i_sync_rx_gs_mode/z_o_reg  
+  Endpoint: lif1_pipeline_u0/bus_delay_u25/delay_seq_reg_5__38_
+  Path Group: LN1_CLK_TX_core0_lif1
+  Path Type: max
+  serdes_s24_btm_u0/serdes_s4_u0/RO_ropt_h_inst_1422539/Y (DLY4_X4N_A9PP84TR_C16)                                   0.18
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319401/Y (DLY4_X4N_A9PP84TR_C16)                                   0.182
+  serdes_s24_btm_u0/serdes_s4_u0/RO_ropt_mt_inst_1381769/Y (delay250x1)                                   0.478
+  serdes_s24_btm_u0/serdes_s4_u0/RO_ropt_h_inst_1462597/Y (DLY2_X4N_A9PP84TR_C16)                                   0.068
+  serdes_s24_btm_u0/serdes_s4_u0/RO_ropt_h_inst_1462009/Y (DLY4_X2N_A9PP84TR_C16)                                   0.079
+  slack (VIOLATED)                                                                                                                                                         -0.360
+
+
+
+
+  Startpoint: serdes_s24_btm_u0/serdes_s4_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/i_ln1/i_sync_rw_bit_stuff_strip_ctrl__bit_strip_even_rxfclk/z_o_reg
+  Endpoint: lif1_pipeline_u0/bus_delay_u25/delay_seq_reg_5__8_
+  Path Group: LN1_CLK_TX_core0_lif1
+  Path Type: max
+  lif1_pipeline_u0/bus_delay_u25/RO_ropt_h_inst_1459873/Y (DLY4_X2N_A9PP84TR_C16)                                   0.076
+  lif1_pipeline_u0/bus_delay_u25/RO_ropt_h_inst_1459872/Y (DLY4_X2N_A9PP84TR_C16)                                   0.079
+  lif1_pipeline_u0/bus_delay_u25/RO_ropt_h_inst_1459871/Y (DLY4_X2N_A9PP84TR_C16)                                   0.079
+  lif1_pipeline_u0/bus_delay_u25/RO_ropt_h_inst_1459870/Y (DLY4_X2N_A9PP84TR_C16)                                   0.079
+  lif1_pipeline_u0/bus_delay_u25/RO_ropt_h_inst_1459869/Y (DLY4_X2N_A9PP84TR_C16)                                   0.080
+  lif1_pipeline_u0/bus_delay_u25/RO_ropt_h_inst_1459868/Y (DLY4_X2N_A9PP84TR_C16)                                   0.087
+  slack (VIOLATED)                                                                                                                                                                                        -0.353
+
+
+
+
+  Startpoint: serdes_s24_btm_u0/serdes_s4_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/i_ln1/i_rxdata_polbit/data_r_reg_16_  
+  Endpoint: lif1_pipeline_u0/bus_delay_u25/delay_seq_reg_5__16_
+  Path Group: LN1_CLK_TX_core0_lif1
+  Path Type: max
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319484/Y (delay250x1)                                   0.449
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319485/Y (delay250x1)                                   0.449
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319486/Y (delay250x1)                                   0.449
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1361294/Y (DLY2_X1N_A9PP84TR_C16)                                   0.064
+  slack (VIOLATED)                                                                                                                                                           -0.50
+
+
+
+
+  Startpoint: serdes_s24_btm_u0/serdes_s4_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/i_ln1/i_sync_rw_bit_stuff_strip_ctrl__bit_strip_even_rxfclk/z_o_reg  
+  Endpoint: lif1_pipeline_u0/bus_delay_u25/delay_seq_reg_5__0_
+  Path Group: LN1_CLK_TX_core0_lif1
+  Path Type: max
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1361331/Y (delay250x1)                                   0.453
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1361332/Y (delay250x1)                                   0.450
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1361333/Y (delay250x1)                                   0.452
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1361668/Y (DLY2_X1N_A9PP84TR_C16)                                   0.028
+  slack (VIOLATED)                                                                                                                                                                                        -0.47
+
+
+
+
+  Startpoint: serdes_s24_btm_u0/serdes_s4_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/i_ln1/i_sync_rw_bit_stuff_strip_ctrl__bit_strip_even_rxfclk/z_o_reg
+  Endpoint: lif1_pipeline_u0/bus_delay_u25/delay_seq_reg_5__9_
+  Path Group: LN1_CLK_TX_core0_lif1
+  Path Type: max
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319510/Y (delay100x1)                                   0.189
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319511/Y (DLY2_X1N_A9PP84TR_C16)                                   0.028
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319507/Y (delay250x1)                                   0.405
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319508/Y (delay250x1)                                   0.472
+  lif1_pipeline_u0/bus_delay_u25/RO_ropt_h_inst_1459989/Y (DLY4_X2N_A9PP84TR_C16)                                   0.075
+  lif1_pipeline_u0/bus_delay_u25/RO_ropt_h_inst_1459990/Y (DLY4_X2N_A9PP84TR_C16)                                   0.076
+  lif1_pipeline_u0/bus_delay_u25/RO_ropt_h_inst_1459991/Y (DLY4_X2N_A9PP84TR_C16)                                   0.076
+  slack (VIOLATED)                                                                                                                                                                                        -0.345
+
+
+
+
+  Startpoint: serdes_s24_btm_u0/serdes_s4_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/i_ln1/i_lane_if/sync_ln_rx_rdy/z_o_reg  
+  Endpoint: lif1_pipeline_u0/bus_delay_u25/delay_seq_reg_5__32_
+  Path Group: LN1_CLK_TX_core0_lif1
+  Path Type: max
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1360197/Y (DLY4_X4N_A9PP84TR_C16)                                   0.117
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1360198/Y (delay100x1)                                   0.175
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319426/Y (DLY4_X4N_A9PP84TR_C16)                                   0.094
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319427/Y (delay250x1)                                   0.447
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319428/Y (delay250x1)                                   0.408
+  serdes_s24_btm_u0/serdes_s4_u0/RO_ropt_h_inst_1437206/Y (DLY2_X4N_A9PP84TR_C16)                                   0.064
+  lif1_pipeline_u0/bus_delay_u25/RO_ropt_h_inst_1435545/Y (DLY4_X2N_A9PP84TR_C16)                                   0.083
+  slack (VIOLATED)                                                                                                                                                                 -0.339
+
+
+
+
+  Startpoint: serdes_s24_btm_u0/serdes_s4_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/i_ln1/i_sync_rw_bit_stuff_strip_ctrl__bit_strip_even_rxfclk/z_o_reg
+  Endpoint: lif1_pipeline_u0/bus_delay_u25/delay_seq_reg_5__5_
+  Path Group: LN1_CLK_TX_core0_lif1
+  Path Type: max
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319526/Y (DLY4_X4N_A9PP84TR_C16)                                   0.093
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319527/Y (delay250x1)                                   0.457
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319528/Y (delay250x1)                                   0.459
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319529/Y (delay250x1)                                   0.259
+  slack (VIOLATED)                                                                                                                                                                                        -0.323
+
+
+
+
+  Startpoint: serdes_s24_btm_u0/serdes_s4_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/i_ln1/i_lane_if/sync_ln_rx_rdy/z_o_reg
+  Endpoint: lif1_pipeline_u0/bus_delay_u25/delay_seq_reg_5__39_
+  Path Group: LN1_CLK_TX_core0_lif1
+  Path Type: max
+  serdes_s24_btm_u0/serdes_s4_u0/RO_ropt_h_inst_1461626/Y (DLY4_X2N_A9PP84TR_C16)                                   0.079
+  serdes_s24_btm_u0/serdes_s4_u0/RO_ropt_h_inst_1461627/Y (DLY4_X2N_A9PP84TR_C16)                                   0.379
+  serdes_s24_btm_u0/serdes_s4_u0/RO_ropt_h_inst_1461631/Y (DLY4_X2N_A9PP84TR_C16)                                   0.086
+  serdes_s24_btm_u0/serdes_s4_u0/RO_ropt_d_inst_1451442/Y (DLY4_X4N_A9PP84TR_C16)                                   0.120
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1360193/Y (DLY4_X4N_A9PP84TR_C16)                                   0.103
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1360194/Y (delay100x1)                                   0.190
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319395/Y (delay250x1)                                   0.447
+  slack (VIOLATED)                                                                                                                                                                 -0.318
+
+
+
+
+  Startpoint: serdes_s24_btm_u0/serdes_s4_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/i_ln1/i_rxdata_polbit/data_r_reg_13_
+  Endpoint: lif1_pipeline_u0/bus_delay_u25/delay_seq_reg_5__6_
+  Path Group: LN1_CLK_TX_core0_lif1
+  Path Type: max
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319525/Y (DLY4_X1N_A9PP84TR_C16)                                   0.080
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319522/Y (delay250x1)                                   0.164
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319524/Y (delay250x1)                                   0.048
+  serdes_s24_btm_u0/serdes_s4_u0/RO_ropt_h_inst_1459968/Y (DLY4_X2N_A9PP84TR_C16)                                   0.074
+  slack (VIOLATED)                                                                                                                                                           -0.332
+
+
+
+
+  Startpoint: serdes_s24_btm_u0/serdes_s4_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/i_ln1/i_sync_rw_bit_stuff_strip_ctrl__bit_strip_even_rxfclk/z_o_reg  
+  Endpoint: lif1_pipeline_u0/bus_delay_u25/delay_seq_reg_5__4_
+  Path Group: LN1_CLK_TX_core0_lif1
+  Path Type: max
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319533/Y (DLY4_X4N_A9PP84TR_C16)                                   0.422
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319530/Y (delay250x1)                                   0.361
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319531/Y (delay250x1)                                   0.383
+  slack (VIOLATED)                                                                                                                                                                                        -0.2252
+
+
+
+
+  Startpoint: serdes_s24_btm_u0/serdes_s4_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/i_ln1/i_sync_rw_bit_stuff_strip_ctrl__bit_strip_en_rxfclk/z_o_reg
+  Endpoint: lif1_pipeline_u0/bus_delay_u25/delay_seq_reg_5__31_
+  Path Group: LN1_CLK_TX_core0_lif1
+  Path Type: max
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319432/Y (delay100x1)                                   0.197
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319429/Y (delay250x1)                                   0.452
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1319430/Y (delay250x1)                                   0.459
+  serdes_s24_btm_u0/serdes_s4_u0/RO_ropt_h_inst_1459977/Y (delay100x1)                                   0.205
+  slack (VIOLATED)                                                                                                                                                                                                  -0.308
+
+
+
+
+  Startpoint: serdes_s24_btm_u0/serdes_s4_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/i_ln1/i_sync_rw_bit_stuff_strip_ctrl__bit_strip_en_rxfclk/z_o_reg  
+  Endpoint: lif1_pipeline_u0/bus_delay_u25/delay_seq_reg_5__25_
+  Path Group: LN1_CLK_TX_core0_lif1
+  Path Type: max
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1361299/Y (delay250x1)                                   0.205
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1361300/Y (delay250x1)                                   0.155
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1361301/Y (delay100x1)                                   0.057
+  serdes_s24_btm_u0/serdes_s4_u0/CO_APSHOLD_1361302/Y (delay100x1)                                   0.291
+  slack (VIOLATED)                                                                                                                                                                                                  -0.39

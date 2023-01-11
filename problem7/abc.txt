@@ -1,0 +1,20 @@
+Name: Abc ghj
+Age: 25 
+Birth 20/08/1992
+Experience: 1 year 
+Previous: XYZ limited 
+Current: gbh cor.
+
+Name: MGK
+Birth 20/08/1989
+Age: 28
+Current: gbh cor.
+Previous: XYZ limited 
+Experience: 3 years 
+
+Name: Rashed Khan
+Birth 20/08/1989
+Age: 28
+Current: gbh cor.
+Previous: XYZ limited 
+Experience: 2 years 

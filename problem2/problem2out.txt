@@ -1,0 +1,10 @@
+DLY4_X2N_A9PP84TR_C16 0.081 #occurs 19 times
+DLY2_X4N_A9PP84TR_C16 0.048 #occurs 13 times
+DLY2_X4N_A9PP84TSL_C16 0.029 #occurs 3 times
+DLY2_X1N_A9PP84TR_C16 0.027 #occurs 60 times
+delay100x1 0.175 #occurs 45 times
+DLY2_X2N_A9PP84TR_C16 0.034 #occurs 57 times
+DLY4_X4N_A9PP84TR_C16 0.097 #occurs 114 times
+DLY2_X1N_A9PP84TL_C16 0.061 #occurs 3 times
+DLY4_X1N_A9PP84TR_C16 0.074 #occurs 42 times
+delay250x1 0.448 #occurs 365 times

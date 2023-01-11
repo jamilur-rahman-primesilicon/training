@@ -1,0 +1,66 @@
+Was the summer of sixty-nine
+reverse line:enin-ytxis fo remmus eht saW
+replace line:Was the summer of replace
+line vowel :a e u e o i i e
+total vowel :8
+total unique vowel :5
+position of a in my line: 1
+position of e in my line: 6 12 27
+position of i in my line: 19 25
+position of o in my line: 15
+position of u in my line: 9
+That summer seemed to last forever
+reverse line:reverof tsal ot demees remmus tahT
+replace line:That summer seemed to last replace
+line vowel :a u e e e e o a o e e
+total vowel :11
+total unique vowel :4
+position of a in my line: 2 23
+position of e in my line: 9 13 14 16 30 32
+position of i in my line: 
+position of o in my line: 20 28
+position of u in my line: 6
+Back in the summer of sixty-nine, oh
+reverse line:ho ,enin-ytxis fo remmus eht ni kcaB
+replace line:Back in the summer of sixty-nine, replace
+line vowel :a i e u e o i i e o
+total vowel :10
+total unique vowel :5
+position of a in my line: 1
+position of e in my line: 10 16 31
+position of i in my line: 5 23 29
+position of o in my line: 19 34
+position of u in my line: 13
+Back in the summer of sixty-nine, oh
+reverse line:ho ,enin-ytxis fo remmus eht ni kcaB
+replace line:Back in the summer of sixty-nine, replace
+line vowel :a i e u e o i i e o
+total vowel :10
+total unique vowel :5
+position of a in my line: 1
+position of e in my line: 10 16 31
+position of i in my line: 5 23 29
+position of o in my line: 19 34
+position of u in my line: 13
+It was the summer of sixty-nine, oh, yeah
+reverse line:haey ,ho ,enin-ytxis fo remmus eht saw tI
+replace line:It was the summer of sixty-nine, oh, replace
+line vowel :I a e u e o i i e o e a
+total vowel :12
+total unique vowel :5
+position of a in my line: 4 39
+position of e in my line: 9 15 30 38
+position of i in my line: 22 28
+position of o in my line: 18 33
+position of u in my line: 12
+It was the summer, the summer, the summer of sixty-nine, yeah
+reverse line:haey ,enin-ytxis fo remmus eht ,remmus eht ,remmus eht saw tI
+replace line:It was the summer, the summer, the summer of sixty-nine, replace
+line vowel :I a e u e e u e e u e o i i e e a
+total vowel :17
+total unique vowel :5
+position of a in my line: 4 59
+position of e in my line: 9 15 21 27 33 39 54 58
+position of i in my line: 46 52
+position of o in my line: 42
+position of u in my line: 12 24 36

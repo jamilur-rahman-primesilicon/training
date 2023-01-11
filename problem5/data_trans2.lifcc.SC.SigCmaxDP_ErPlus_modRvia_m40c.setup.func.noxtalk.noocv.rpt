@@ -1,0 +1,102 @@
+                                            
+********************************************
+Report        : Transition                  
+Design        : lifcc                  
+Version       : M-2017.06-SP1                        
+Date          : Mon Jan 29 05:07:36 PST 2018                 
+********************************************
+                                            
+** Pin : serdes_s4_lifc_u0/sbphys2a1s14lpp28g4l1c_phy_u0/BLOCK_BUFFER_IN_CLK_20/A                                                  (   in), R=2.776835, F=2.779339, Threshold=0.200000, LibThreshold=0.330000
+** Pin : esi_dft_occ_wrap_SERDES_scan_clk_ln1_rxdiv_i/pll_clk_ATibuf_i101/A                                                        (   in), R=1.277901, F=1.274812, Threshold=0.200000, LibThreshold=0.330000
+** Pin : serdes_s4_lifc_u0/sbphys2a1s14lpp28g4l1c_phy_u0/BLOCK_BUFFER_IN_CLK_21/A                                                  (   in), R=1.086862, F=1.091057, Threshold=0.200000, LibThreshold=0.330000
+** Pin : BLOCK_BUFFER_OUT_391/A                                                                                                    (   in), R=1.042657, F=0.980401, Threshold=0.200000, LibThreshold=0.330000
+** Pin : diode445104/A                                                                                                             (   in), R=1.042652, F=0.980393, Threshold=0.200000, LibThreshold=0.330000
+** Pin : BLOCK_BUFFER_OUT_385/A                                                                                                    (   in), R=1.003516, F=1.000774, Threshold=0.200000, LibThreshold=0.330000
+** Pin : diode445109/A                                                                                                             (   in), R=1.003518, F=1.000765, Threshold=0.200000, LibThreshold=0.330000
+** Pin : serdes_s4_lifc_u0/sbphys2a1s14lpp28g4l1c_phy_u0/BLOCK_BUFFER_IN_CLK_17/A                                                  (   in), R=0.855760, F=0.856819, Threshold=0.200000, LibThreshold=0.330000
+** Pin : BLOCK_BUFFER_OUT_386/A                                                                                                    (   in), R=0.854943, F=0.794373, Threshold=0.200000, LibThreshold=0.330000
+** Pin : diode445103/A                                                                                                             (   in), R=0.854931, F=0.794350, Threshold=0.200000, LibThreshold=0.330000
+** Pin : diode458722/A                                                                                                             (   in), R=0.697726, F=0.613841, Threshold=0.200000, LibThreshold=0.330000
+** Pin : BLOCK_BUFFER_OUT_389/A                                                                                                    (   in), R=0.697727, F=0.613840, Threshold=0.200000, LibThreshold=0.330000
+** Pin : BLOCK_BUFFER_OUT_392/A                                                                                                    (   in), R=0.683793, F=0.660334, Threshold=0.200000, LibThreshold=0.330000
+** Pin : diode445105/A                                                                                                             (   in), R=0.683784, F=0.660324, Threshold=0.200000, LibThreshold=0.330000
+** Pin : esi_dft_occ_wrap_SERDES_scan_clk_ln2_rxdiv_i/pll_clk_ATibuf_i101/A                                                        (   in), R=0.636275, F=0.636695, Threshold=0.200000, LibThreshold=0.330000
+** Pin : esi_dft_occ_wrap_SERDES_scan_clk_ln2_rx_i/pll_clk_ATibuf_i101/A                                                           (   in), R=0.631961, F=0.627460, Threshold=0.200000, LibThreshold=0.330000
+** Pin : BLOCK_BUFFER_OUT_394/A                                                                                                    (   in), R=0.599304, F=0.519743, Threshold=0.200000, LibThreshold=0.330000
+** Pin : diode443931/A                                                                                                             (   in), R=0.599279, F=0.519721, Threshold=0.200000, LibThreshold=0.330000
+** Pin : diode445108/A                                                                                                             (   in), R=0.591267, F=0.558803, Threshold=0.200000, LibThreshold=0.330000
+** Pin : BLOCK_BUFFER_OUT_387/A                                                                                                    (   in), R=0.591269, F=0.558805, Threshold=0.200000, LibThreshold=0.330000
+** Pin : diode445110/A                                                                                                             (   in), R=0.527200, F=0.487863, Threshold=0.200000, LibThreshold=0.330000
+** Pin : BLOCK_BUFFER_OUT_388/A                                                                                                    (   in), R=0.527195, F=0.487868, Threshold=0.200000, LibThreshold=0.330000
+** Pin : BLOCK_BUFFER_OUT_383/A                                                                                                    (   in), R=0.515742, F=0.497419, Threshold=0.200000, LibThreshold=0.330000
+** Pin : diode445107/A                                                                                                             (   in), R=0.515738, F=0.497418, Threshold=0.200000, LibThreshold=0.330000
+** Pin : serdes_s4_lifc_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/RO_ropt_d_inst_322391/Y                                             (  out), R=0.444309, F=0.293559, Threshold=0.200000, LibThreshold=0.330000
+** Pin : BLOCK_BUFFER_OUT_384/A                                                                                                    (   in), R=0.436098, F=0.411440, Threshold=0.200000, LibThreshold=0.330000
+** Pin : diode457333/A                                                                                                             (   in), R=0.436098, F=0.411431, Threshold=0.200000, LibThreshold=0.330000
+** Pin : BLOCK_BUFFER_OUT_390/A                                                                                                    (   in), R=0.418513, F=0.397465, Threshold=0.200000, LibThreshold=0.330000
+** Pin : diode445106/A                                                                                                             (   in), R=0.418507, F=0.397446, Threshold=0.200000, LibThreshold=0.330000
+** Pin : serdes_s4_lifc_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/RO_ropt_d_inst_322352/Y                                             (  out), R=0.414308, F=0.282917, Threshold=0.200000, LibThreshold=0.330000
+** Pin : BLOCK_BUFFER_OUT_393/A                                                                                                    (   in), R=0.414258, F=0.403664, Threshold=0.200000, LibThreshold=0.330000
+** Pin : diode445111/A                                                                                                             (   in), R=0.414260, F=0.403660, Threshold=0.200000, LibThreshold=0.330000
+** Pin : serdes_s4_lifc_u0/sbphys2a1s14lpp28g4l1c_phy_u0/BLOCK_BUFFER_IN_CLK_23/A                                                  (   in), R=0.366336, F=0.371366, Threshold=0.200000, LibThreshold=0.330000
+** Pin : esi_dft_occ_wrap_SERDES_scan_clk_ln3_rx_i/pll_clk_ATibuf_i101/A                                                           (   in), R=0.368383, F=0.366332, Threshold=0.200000, LibThreshold=0.330000
+** Pin : serdes_s4_lifc_u0/sbphys2a1s14lpp28g4l1c_phy_u0/BLOCK_BUFFER_IN_CLK_22/A                                                  (   in), R=0.307690, F=0.313819, Threshold=0.200000, LibThreshold=0.330000
+** Pin : serdes_s4_lifc_u0/serdes_s4_crm_lifc_u0/U11/A0                                                                            (   in), R=0.312565, F=0.313306, Threshold=0.200000, LibThreshold=0.330000
+** Pin : serdes_s4_lifc_u0/serdes_s4_crm_lifc_u0/npe_synchronizer_u3/SDFFYRPQ2D_INST_3__SDFFYRPQ2D/D                               (   in), R=0.312533, F=0.313285, Threshold=0.200000, LibThreshold=0.330000
+** Pin : serdes_s4_lifc_u0/sbphys2a1s14lpp28g4l1c_phy_u0/BLOCK_BUFFER_IN_CLK_19/A                                                  (   in), R=0.303795, F=0.300459, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/tdr_reg_83_/SI                                                          (   in), R=0.280876, F=0.170348, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/tdr_reg_82_/SI                                                          (   in), R=0.280876, F=0.170348, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/tdr_latch88_reg/SI                                                      (   in), R=0.280876, F=0.170348, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/tdr_latch84_reg/SI                                                      (   in), R=0.280876, F=0.170348, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/tdr_latch86_reg/SI                                                      (   in), R=0.280876, F=0.170348, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/tdr_reg_89_/SI                                                          (   in), R=0.280876, F=0.170348, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/tdr_latch89_reg/SI                                                      (   in), R=0.280876, F=0.170348, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/tdr_reg_88_/SI                                                          (   in), R=0.280876, F=0.170348, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/tdr_reg_87_/SI                                                          (   in), R=0.280876, F=0.170348, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/tdr_reg_86_/SI                                                          (   in), R=0.280876, F=0.170348, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/tdr_reg_85_/SI                                                          (   in), R=0.280876, F=0.170348, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/tdr_reg_84_/SI                                                          (   in), R=0.280876, F=0.170348, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/tdr_latch82_reg/SI                                                      (   in), R=0.280876, F=0.170348, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/PO_AINV_P_381265/Y                                                      (  out), R=0.280876, F=0.170348, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/tdr_latch87_reg/SI                                                      (   in), R=0.280876, F=0.170348, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/PO_AINV_P_381251/A                                                      (   in), R=0.280876, F=0.170348, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/PO_AINV_P_381254/A                                                      (   in), R=0.280876, F=0.170348, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/tdr_latch85_reg/SI                                                      (   in), R=0.280876, F=0.170348, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/tdr_latch83_reg/SI                                                      (   in), R=0.280876, F=0.170348, Threshold=0.200000, LibThreshold=0.330000
+** Pin : cfg/cfg_pcie_top/pcie_wrapper_u0/u_pma/ATBSP                                                                              (inout), R=0.275168, F=0.275168, Threshold=0.200000, LibThreshold=0.360000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/PO_AINV_P_381237/A                                                      (   in), R=0.269974, F=0.189278, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/PO_AINV_P_381235/A                                                      (   in), R=0.269974, F=0.189278, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/PO_AINV_P_381236/A                                                      (   in), R=0.269974, F=0.189278, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/PO_AINV_P_381234/A                                                      (   in), R=0.269974, F=0.189278, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/PO_AINV_P_381224/A                                                      (   in), R=0.269974, F=0.189278, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/PO_AINV_P_381216/A                                                      (   in), R=0.269974, F=0.189278, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/PO_AINV_P_381251/Y                                                      (  out), R=0.269974, F=0.189278, Threshold=0.200000, LibThreshold=0.330000
+** Pin : cfg/cfg_pcie_top/pcie_wrapper_u0/u_pma/ATBSN                                                                              (inout), R=0.262366, F=0.262366, Threshold=0.200000, LibThreshold=0.360000
+** Pin : esi_dft_occ_wrap_SERDES_scan_clk_pll2ref_i/pll_clk_ATibuf_i101/A                                                          (   in), R=0.260296, F=0.259752, Threshold=0.200000, LibThreshold=0.330000
+** Pin : serdes_s4_lifc_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/genblk1_6__i_sync_tbus_data/z_r_reg/D                    (   in), R=0.252051, F=0.186748, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/PO_AINV_P_381252/Y                                                      (  out), R=0.249941, F=0.150607, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/PO_AINV_P_381247/A                                                      (   in), R=0.249941, F=0.150607, Threshold=0.200000, LibThreshold=0.330000
+** Pin : serdes_s4_lifc_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/i_top_tbus_0/U370/Y                                      (  out), R=0.246016, F=0.181014, Threshold=0.200000, LibThreshold=0.330000
+** Pin : serdes_s4_lifc_u0/serdes_s4_cfg_lifc_u0/U845/B                                                                            (   in), R=0.243664, F=0.243240, Threshold=0.200000, LibThreshold=0.330000
+** Pin : serdes_s4_lifc_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/genblk1_7__i_sync_tbus_data/z_r_reg/D                    (   in), R=0.236815, F=0.189746, Threshold=0.200000, LibThreshold=0.330000
+** Pin : cfg/cfg_pcie_top/pcie_wrapper_u0/u_pcs_lane1_wrapper/u_pcs_pcie_core/i_pcs_pcie_lane_control0/RO_ropt_mt_inst_447082/A    (   in), R=0.234848, F=0.234733, Threshold=0.200000, LibThreshold=0.330000
+** Pin : serdes_s4_lifc_u0/sbphys2a1s14lpp28g4l1c_phy_u0/i_dpl/i_dpl_core/i_top_tbus_0/U371/Y                                      (  out), R=0.230512, F=0.183206, Threshold=0.200000, LibThreshold=0.330000
+** Pin : serdes_s4_lifc_u0/mem2apb_u0/PO_BINV_R_374025/A                                                                           (   in), R=0.225204, F=0.128530, Threshold=0.200000, LibThreshold=0.330000
+** Pin : serdes_s4_lifc_u0/mem2apb_u0/PO_BINV_R_374026/Y                                                                           (  out), R=0.225087, F=0.128444, Threshold=0.200000, LibThreshold=0.330000
+** Pin : serdes_s4_lifc_u0/sbphys2a1s14lpp28g4l1c_phy_u0/Upteco_drc__December09__PTECO_DRC_BUF59/A                                 (   in), R=0.220548, F=0.179227, Threshold=0.200000, LibThreshold=0.330000
+** Pin : serdes_s4_lifc_u0/serdes_s4_cfg_lifc_u0/PO_AINV_P_80439/Y                                                                 (  out), R=0.217570, F=0.172471, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/PO_AINV_P_381250/A                                                      (   in), R=0.208172, F=0.161039, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/PO_AINV_P_381227/A                                                      (   in), R=0.208172, F=0.161039, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/PO_AINV_P_381225/A                                                      (   in), R=0.208172, F=0.161039, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/PO_AINV_P_381226/A                                                      (   in), R=0.208172, F=0.161039, Threshold=0.200000, LibThreshold=0.330000
+** Pin : lifcc_gate_tessent_tdr_MEM_PROGRAMMABLE_BITs_inst/PO_AINV_P_381254/Y                                                      (  out), R=0.208172, F=0.161039, Threshold=0.200000, LibThreshold=0.330000
+** Pin : cfg/led_signal_sync_u0/PSU0_14__pulse_sampling_u0/PO_SGI76_384140/A                                                       (   in), R=0.207361, F=0.178244, Threshold=0.200000, LibThreshold=0.330000
+** Pin : cfg/led_signal_sync_u0/PSU0_14__pulse_sampling_u0/PO_SGI70_384138/Y                                                       (  out), R=0.207252, F=0.178388, Threshold=0.200000, LibThreshold=0.330000
+** Pin : cfg/led_signal_sync_u0/PSU3_0__pulse_sampling_u3/PO_SGI23_384014/A                                                        (   in), R=0.198372, F=0.206801, Threshold=0.200000, LibThreshold=0.330000
+** Pin : cfg/led_signal_sync_u0/PSU3_0__pulse_sampling_u3/PO_SGI20_384012/Y                                                        (  out), R=0.198269, F=0.206505, Threshold=0.200000, LibThreshold=0.330000
+** Pin : cfg/cfg_pcie_top/pcie_wrapper_u0/u_pma/RXP2                                                                               (   in), R=0.200000, F=0.200000, Threshold=0.100000, LibThreshold=0.100000
+** Pin : cfg/cfg_pcie_top/pcie_wrapper_u0/u_pma/RXP3                                                                               (   in), R=0.200000, F=0.200000, Threshold=0.100000, LibThreshold=0.100000
+** Pin : cfg/cfg_pcie_top/pcie_wrapper_u0/u_pma/RXP3                                                                               (   in), R=0.200000, F=0.200000, Threshold=0.100000, LibThreshold=0.100000
+** Pin : cfg/cfg_pcie_top/pcie_wrapper_u0/u_pma/RXP2                                                                               (   in), R=0.200000, F=0.200000, Threshold=0.100000, LibThreshold=0.100000
+SUMMARY: 92 pins have transition time greater than specified threshold of 0.200000 or max_constraint on lib 
+
